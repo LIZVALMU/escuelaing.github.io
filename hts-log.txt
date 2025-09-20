@@ -1,0 +1,157 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 20 Sep 2025 15:05:08 at https://www.escuelaing.edu.co/es/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.escuelaing.edu.co/es/ -O1 "C:\Mis lugares Web\eci" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:06:52	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.escuelaing.edu.co/es/)
+15:23:33	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/programas/maestria-en-ingenieria-biomedica/
+15:23:33	Warning: 	File has moved from https://www.escuelaing.edu.co/es/programas/maestria-en-ingenieria-biomedica/ to http://bit.ly/3UvdwMi
+15:23:44	Error: 	Exit requested by shell or user
+15:23:45	Warning: 	File not added due to mirror cancel: https://escuelaing.s3.amazonaws.com/production/images/Logotipo-ESCUELA-sin-VM.width-380_R7iE0XU.png?AWSAccessKeyId=AKIAWFY3NGTFJHVI634A&Signature=%2FwT8Ap8Qaumq7pylhaFViOmfVRI%3D&Expires=1760817958
+15:23:46	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/seminario-internacional-tendencias-y-futuro-en-el-análisis-del-movimiento-humano-con-tecnología-bts/
+15:23:46	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/seminario-internacional-tendencias-y-futuro-en-el-análisis-del-movimiento-humano-con-tecnología-bts/ to https://lsalamancas.github.io/BTS_event_web_page/es/
+15:23:47	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/programas/doctorado/
+15:23:47	Warning: 	File has moved from https://www.escuelaing.edu.co/es/programas/doctorado/ to https://www.escuelaing.edu.co/es/programas/doctorado-en-ingenieria/
+15:23:48	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/guías-y-videos-estudiantes/
+15:23:48	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/guías-y-videos-estudiantes/ to https://www.escuelaing.edu.co/es/estudiantes/enlace-academico-estudiantes/
+15:23:48	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/guías-y-videos-profesores/
+15:23:48	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/guías-y-videos-profesores/ to https://www.escuelaing.edu.co/es/profesores-y-administrativos/enlace-academico-profesores/
+15:23:48	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/guías-y-videos-decanos-y-directores/
+15:23:48	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/guías-y-videos-decanos-y-directores/ to https://www.escuelaing.edu.co/es/profesores-y-administrativos/enlace-academico-decanos-directores/
+15:23:48	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/enlace-académico/
+15:23:48	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/enlace-académico/ to https://enlace-academico.escuelaing.edu.co/psp/ECCS92PR/?cmd=login&languageCd=ESP&
+15:23:49	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/fincomercio-redireccion/
+15:23:49	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/fincomercio-redireccion/ to https://www.fincomercio.com/credito-libre-vehiculo-educativo/credito-educativo/
+15:23:49	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/icetex-redireccion/
+15:23:49	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/icetex-redireccion/ to https://web.icetex.gov.co/es/creditos
+15:23:49	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/colsubsidio-redireccion/
+15:23:49	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/colsubsidio-redireccion/ to https://www.colsubsidio.com/afiliados/educacion/alianzas-educativas
+15:23:50	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/eventos/agenda-una-visita-al-campus-formulario/
+15:23:50	Warning: 	File has moved from https://www.escuelaing.edu.co/es/eventos/agenda-una-visita-al-campus-formulario/ to https://landing.escuelaing.edu.co/agenda-tu-visita-al-campus
+15:23:50	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/notificaciones-judiciales/
+15:23:50	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/notificaciones-judiciales/ to https://notificaciones-juridicas.escuelaing.edu.co/
+15:23:50	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/centro-de-ayuda/centro-de-servicios-tecnológicos/
+15:23:50	Warning: 	File has moved from https://www.escuelaing.edu.co/es/centro-de-ayuda/centro-de-servicios-tecnológicos/ to https://serviciosti.escuelaing.edu.co/USDKV8/#/login/1?tokenBranding=611D86C7-5D61-49AC-A039-552C11653C34
+15:23:50	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/directorio-busquedas/
+15:23:50	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/directorio-busquedas/ to https://www.escuelaing.edu.co/search/?search_text=&search_meta=%7B%22type%22:+%22model%22,+%22app_label%22:+%22esc_web_personas%22,+%22model%22:+%22persona%22,+%22slug%22:+null%7D&order_by=relevance
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/campus-virtual-32/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/campus-virtual-32/ to http://campusvirtual.escuelaing.edu.co/moodle/
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/centro-de-servicios-ti/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/centro-de-servicios-ti/ to https://serviciosti.escuelaing.edu.co/USDKV8/#/login/1?tokenBranding=611D86C7-5D61-49AC-A039-552C11653C34
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/correo-electronico/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/correo-electronico/ to https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-0000
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/gestione-su-contraseña/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/gestione-su-contraseña/ to https://gestorpasswd.escuelaing.edu.co/
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/servicios-academicos/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/servicios-academicos/ to https://estudiantes.escuelaing.edu.co/estudiantes/login
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/solicitudes-mercadeo-y-comunicaciones/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/solicitudes-mercadeo-y-comunicaciones/ to https://forms.office.com/Pages/ResponsePage.aspx?id=hAVkUEAqFkKoS5s-4PP2z94V1g63cdRIpaNvwucro25UMUk4MjUxSFlVRlRMU0FFVEg2UU01R1MyNyQlQCN0PWcu
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/biblioteca/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/biblioteca/ to https://catalogo.escuelaing.edu.co/
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/convocatoria-permanente-para-profesores/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/convocatoria-permanente-para-profesores/ to https://convocatorias.escuelaing.edu.co/Convocatoria-war/ingreso_Post
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/encuesta-de-autoevaluacion/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/encuesta-de-autoevaluacion/ to https://siaci-escuelaing.azurewebsites.net/Account/Login?ReturnUrl=%2F
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/investigacion/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/investigacion/ to https://enlace-investigacion.escuelaing.edu.co/psp/ECEP92PR/?cmd=login&languageCd=ESP&
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/siempreg-interno/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/siempreg-interno/ to https://siempregt.escuelaing.edu.co/
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/recibos-y-pagos/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/recibos-y-pagos/ to https://enlace-academico.escuelaing.edu.co/psp/ECCS92PR/?cmd=login&languageCd=ESP&
+15:23:51	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/sistema-de-movilidad-estudiantil/
+15:23:51	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/sistema-de-movilidad-estudiantil/ to https://practicas.escuelaing.edu.co/SIGE2.0-war/loginestMov
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/administrador-de-servicios/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/administrador-de-servicios/ to https://admisiones.escuelaing.edu.co/adminsis/
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/calendario-académico-2020/
+15:23:53	Warning: 	Warning moved treated for https://www.escuelaing.edu.co/es/redirecciones/calendario-académico-2020/ (real one is https://escuelaing.s3.amazonaws.com/production/documents/Calendario_Acad%C3%A9mico_2024.png?AWSAccessKeyId=AKIAWFY3NGTFD5OU3IGB&Signature=EAGBrR6JoEfyaaTc%2FgQkVbO8AVU%3D&Expires=1710451581)
+15:23:53	Warning: 	File not added due to mirror cancel: https://escuelaing.s3.amazonaws.com/production/documents/Calendario_Acad%C3%A9mico_2024.png?AWSAccessKeyId=AKIAWFY3NGTFD5OU3IGB&Signature=EAGBrR6JoEfyaaTc%2FgQkVbO8AVU%3D&Expires=1710451581
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/directorio/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/directorio/ to https://www.escuelaing.edu.co/search/?search_text=&search_meta=%7B%22type%22:+%22model%22,+%22app_label%22:+%22esc_web_personas%22,+%22model%22:+%22persona%22,+%22slug%22:+null%7D&order_by=relevance
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/estatuto-de-profesores-2014/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/estatuto-de-profesores-2014/ to https://www.escuelaing.edu.co/documents/317/ESTATUTOS-DE-PROFESORESV5_3.pdf
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/estatuto-de-profesores-2019/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/estatuto-de-profesores-2019/ to https://www.escuelaing.edu.co/documents/319/ESTATUTOS-DE-PROFESORESV6_1.pdf
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/políticas-de-investigación-e-innovación/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/políticas-de-investigación-e-innovación/ to https://www.escuelaing.edu.co/documents/180/Politicas_de_investigacion_e_innovacion.pdf
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/políticas-y-procedimientos/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/políticas-y-procedimientos/ to https://www.escuelaing.edu.co/documents/1202/03_Pol%C3%ADticas_y_Procedimientos_actualizada_PIpC7Mb.pdf
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/sistema-preciso-usuarios-internos/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/sistema-preciso-usuarios-internos/ to http://bpm.escuelaing.edu.co/Home/
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/servicios-academicos-profesores/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/servicios-academicos-profesores/ to https://intranet.escuelaing.edu.co/
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/servicios-academicos-biomédica/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/servicios-academicos-biomédica/ to https://tycho.escuelaing.edu.co/adminbiomedica/
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/gestion-documental/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/gestion-documental/ to https://pruebacorreoescuelaingeduco.sharepoint.com/sites/GestionDocumental
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/plataforma-de-seguimineto-proyectos/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/plataforma-de-seguimineto-proyectos/ to https://horus.escuelaing.edu.co/planeacion/
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/practicas-empresariales-empresas-1/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/practicas-empresariales-empresas-1/ to https://siempregt.escuelaing.edu.co/
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/sistema-de-movilidad-estudiantil-administrativos/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/sistema-de-movilidad-estudiantil-administrativos/ to https://practicas.escuelaing.edu.co/SIGE2.0-war/loginVice
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/sistema-de-movilidad-estudiantil-decanos/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/sistema-de-movilidad-estudiantil-decanos/ to https://practicas.escuelaing.edu.co/SIGE2.0-war/loginDec
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/estatuto-profesores-2004/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/estatuto-profesores-2004/ to https://www.escuelaing.edu.co/documents/461/Estatuto_de_profesores_2004.pdf
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/estatuto-de-profesores/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/estatuto-de-profesores/ to https://www.escuelaing.edu.co/documents/460/Estatuto_de_profesores_2019.pdf
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/sistema-de-programación-académica-talos/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/sistema-de-programación-académica-talos/ to https://talos.escuelaing.edu.co/login
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/instructivos-para-profesores/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/instructivos-para-profesores/ to https://www.escuelaing.edu.co/documents/3379/Instructivo_para_profesores.pdf
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/instructivo-para-decanos/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/instructivo-para-decanos/ to https://www.escuelaing.edu.co/documents/3377/Instructivo_para_decanos.pdf
+15:23:53	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/instructivos-para-directores/
+15:23:53	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/instructivos-para-directores/ to https://www.escuelaing.edu.co/documents/3378/Instructivo_para_directores.pdf
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/asociación-de-egresados/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/asociación-de-egresados/ to https://www.aeci.org.co/
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/instructivo-uso-del-sistema-siempreg/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/instructivo-uso-del-sistema-siempreg/ to https://www.escuelaing.edu.co/documents/458/3320_instructivo_ingresosiempreg_graduados.pdf
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/practicas-empresariales/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/practicas-empresariales/ to https://practicas.escuelaing.edu.co/SIGE2.0-war/loingempresa
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/reglamento-bolsa-de-empleo/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/reglamento-bolsa-de-empleo/ to https://www.escuelaing.edu.co/documents/765/REGLAMENTO_BOLSA_EMPLEO_-_APROBADO_CD393_ABRIL5DE2016.pdf
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/bolsa-de-empleo-siempreg/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/bolsa-de-empleo-siempreg/ to https://siempregt.escuelaing.edu.co/
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/convocatorias-docentes-1/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/convocatorias-docentes-1/ to https://convocatorias.escuelaing.edu.co/Convocatoria-war/ingreso_Post
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/campus-virtual-3-2/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/campus-virtual-3-2/ to http://campusvirtual.escuelaing.edu.co/moodle/
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/centro-de-servicios-ti-1/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/centro-de-servicios-ti-1/ to https://serviciosti.escuelaing.edu.co/USDKV8/#/login/1?tokenBranding=611D86C7-5D61-49AC-A039-552C11653C34
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/actualización-de-datos-graduados/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/actualización-de-datos-graduados/ to https://siempregt.escuelaing.edu.co/update-info
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/biblioteca-1/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/biblioteca-1/ to https://catalogo.escuelaing.edu.co/
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/recibos-y-pagos-1/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/recibos-y-pagos-1/ to https://enlace-academico.escuelaing.edu.co/psp/ECCS92PR/?cmd=login&languageCd=ESP&
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/solicitud-de-monitores-administrativos/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/solicitud-de-monitores-administrativos/ to https://www.escuelaing.edu.co/documents/349/1095_preciso_instructivo_solicitud_de_monitores.pdf
+15:23:54	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/encuesta-de-autoevaluación-1/
+15:23:54	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/encuesta-de-autoevaluación-1/ to https://siaci-escuelaing.azurewebsites.net/Account/Login?ReturnUrl=%2F
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/practicas-empresariales-empresas/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/practicas-empresariales-empresas/ to https://siempregt.escuelaing.edu.co/
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/sistema-preciso-usuarios-externos/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/sistema-preciso-usuarios-externos/ to http://bpm.escuelaing.edu.co/AP/Login.aspx?idLogin=14
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/servicios-academicos-biomedica-1/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/servicios-academicos-biomedica-1/ to https://tycho.escuelaing.edu.co/adminbiomedica/
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/registro-sistema-preciso-persona-jurídica/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/registro-sistema-preciso-persona-jurídica/ to http://bpm.escuelaing.edu.co/AP/Visitor.aspx?id=215&idPortal=0
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/registro-sistema-preciso-persona-natural/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/registro-sistema-preciso-persona-natural/ to http://bpm.escuelaing.edu.co/AP/Visitor.aspx?id=231&idPortal=0
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/conexión-escuela/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/conexión-escuela/ to https://siempregt.escuelaing.edu.co/
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/campus/coworking-escuela/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/campus/coworking-escuela/ to https://coworking.escuelaing.edu.co/
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/innpulsa/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/innpulsa/ to https://innpulsacolombia.com/
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/universidad-nacional/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/universidad-nacional/ to https://unal.edu.co/
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/minciencias/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/minciencias/ to https://minciencias.gov.co/convocatorias/todas
+15:23:55	Warning: 	Moved Permanently for https://www.escuelaing.edu.co/es/redirecciones/financiar-redireccion/
+15:23:55	Warning: 	File has moved from https://www.escuelaing.edu.co/es/redirecciones/financiar-redireccion/ to https://www.financiar.com.co/
+15:24:02	Error: 	"Not Found" (404) at link https://www.escuelaing.edu.co/es/programas/analisis-forense-de-accidentes-de-transito/ (from https://www.escuelaing.edu.co/es/programas/ingenieria-civil/)

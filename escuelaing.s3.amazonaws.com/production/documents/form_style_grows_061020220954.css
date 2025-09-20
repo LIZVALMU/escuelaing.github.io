@@ -1,0 +1,93 @@
+.hs-form {
+     max-width: 850px;
+     width: 100%;
+     margin: 32px auto;
+     font-size: 14px;
+     font-size: .875rem;
+     font-family: Ubuntu, sans-serif;
+}
+ .hs-input {
+     padding: 1rem;
+     line-height: 1.2;
+     color: #676767;
+     border: 2px solid #fff;
+}
+ form.hs-form input:not([type=image]):not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):not([type=file]), form.hs-form select {
+     min-height: 52px;
+     height: 52px;
+     width: 100%;
+     color: #676767;
+}
+ form.hs-form .hs-form-field>label {
+     font-size: 14px;
+     color: #fff;
+     margin: 8px 0;
+     display: block;
+     line-height: 24px;
+}
+ form.hs-form .hs-fieldtype-booleancheckbox {
+     margin: 32px 0;
+}
+ form.hs-form .hs-fieldtype-booleancheckbox ul.inputs-list {
+     display: flex;
+     justify-content: center;
+}
+ form.hs-form .hs-fieldtype-booleancheckbox li.hs-form-booleancheckbox {
+     color: #fff;
+     list-style: none;
+     margin: 0;
+}
+ form.hs-form .hs-fieldtype-booleancheckbox li.hs-form-booleancheckbox a {
+     color: #007d99;
+}
+ form.hs-form .hs-form-required {
+     color: #900;
+     margin-left: 2px;
+}
+ form.hs-form .hs-button {
+     color: #fff;
+     border: 3px solid #fff;
+     background-color: transparent;
+     border-radius: 25px;
+     width: 250px;
+     margin: 32px auto 0;
+     display: block;
+     line-height: 50px;
+     font-size: 16px;
+}
+ .hs-error-msgs {
+     color: #fff;
+     list-style: none;
+     padding: 0;
+     margin: 0;
+     padding-right: 8px;
+}
+ .hs-error-msgs li {
+     color: #fff;
+     background-color: #900;
+     padding: 13px 16px;
+}
+ .hs-error-msgs li label{
+     color: #fff;
+     font-size: 14px;
+}
+ .legal-consent-container .inputs-list{
+     padding-left: 0;
+}
+ .legal-consent-container .hs-error-msgs{
+     max-width: 580px;
+     margin: 0 auto;
+}
+ .legal-consent-container .hs-error-msgs label {
+     color: #fff !important;
+}
+ .hs_recaptcha, .hs_recaptcha .input {
+     text-align: center;
+     display: flex;
+     justify-content: center;
+}
+ .hs_error_rollup{
+     max-width: 580px;
+     margin: 8px auto 0;
+}
+ 
